@@ -70,11 +70,11 @@
     <Compile Include="Assets\AI\Pathfinding\PathRequestManager.cs" />
     <Compile Include="Assets\AI\Pathfinding\Pathfinding.cs" />
     <Compile Include="Assets\AI\Pathfinding\Unit.cs" />
-    <Compile Include="Assets\Door.cs" />
-    <Compile Include="Assets\Scripts\control.cs" />
-    <Compile Include="Assets\Scripts\createMap.cs" />
-    <Compile Include="Assets\Scripts\testControl.cs" />
-    <Compile Include="Assets\cameraFollow.cs" />
+    <Compile Include="Assets\Materials\Scripts\Door.cs" />
+    <Compile Include="Assets\Materials\Scripts\cameraFollow.cs" />
+    <Compile Include="Assets\Materials\Scripts\control.cs" />
+    <Compile Include="Assets\Materials\Scripts\createMap.cs" />
+    <Compile Include="Assets\Materials\Scripts\testControl.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
