@@ -30,6 +30,7 @@ public class NPC : MonoBehaviour {
     }
 
     void Start(){
+        //zum Test
         moveToTarget(target);
     }
 
