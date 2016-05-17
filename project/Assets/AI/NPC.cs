@@ -16,8 +16,6 @@ public class NPC : MonoBehaviour {
     private duty myDuty;
     private float movSpeed = 5;
 
-    private damageResistance myResistance;
-
     public enum gender
     {
         neutral,
